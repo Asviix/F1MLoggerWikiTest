@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content:center">
+<div align="center">
     <img src="https://i.imgur.com/sHKYZTk.png" width="400">
 </div>
 <h1 align="center">F1 Manager 2024 Logger</h1>

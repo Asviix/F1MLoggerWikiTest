@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: flex-end;">
-    <h4 style="margin-right: 20px;">F1 Manager 2024 Logger</h1>
+<div align="right">
+    <h4>F1 Manager 2024 Logger</h1>
     <img src="https://i.imgur.com/sHKYZTk.png" width="100">
 </div>
 
