@@ -70,7 +70,7 @@ The data is a float value between 0 and 1 representing the current ERS Charge.
 
 ## Tire Age
 
-The data is a integer value between that represents how old the tires are.
+The data is a integer value that represents how old the tires are.
 This value is calculated when the session is started, so if you load a session at lap 23, it will shows a tire age of 1 on the next lap.
 
 ## Energy Harvested
