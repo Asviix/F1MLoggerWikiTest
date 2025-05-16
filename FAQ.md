@@ -14,7 +14,6 @@
       - [Why use a Shared Memory File?](#why-use-a-shared-memory-file)
     - [Can this work for F1 Manager 2022/2023?](#can-this-work-for-f1-manager-20222023)
     - [Can we have additional data points?](#can-we-have-additional-data-points)
-    - [Why is the code source of the C# Memory Reader not available?](#why-is-the-code-source-of-the-c-memory-reader-not-available)
     - [Why do I get so many errors in the SimHub Logs?](#why-do-i-get-so-many-errors-in-the-simhub-logs)
 
 ---
@@ -62,11 +61,6 @@ I honestly have no idea. I have not yet tried, I want to finish building the plu
 Finding new data points inside the game is a long and tedious process. I have to manually scan the memory of the game, change the desired value, and look up if anything has changed in the memory. This makes certain data points that change spots in memory almost impossible to get. I am obviously always working on obtaining more, and when I do, I add them to the script.
 
 If you have data points to request that I may have forgotten about, please feel free to do so, and I'll try to find them.
-
-### Why is the code source of the C# Memory Reader not available?
-
-This code, if used maliciously and reuploaded by someone else, could have devastating impact on your machine, deleting files, stealing or information...
-This is why I've chosen to keep this code Closed-Source, so that it can't be redistributed with malicious intents.
 
 ### Why do I get so many errors in the SimHub Logs?
 
